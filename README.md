@@ -3,7 +3,6 @@ mpegをmp4に変換する
 
 (made with chatgpt)
 
-
 前提条件として以下のインストールが必要
 1.ffmpeg
 2.python
