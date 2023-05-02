@@ -3,12 +3,10 @@ mpegをmp4に変換する
 
 (made with chatgpt)
 
-前提条件として以下のインストールが必要
-1.ffmpeg
-2.python
+前提条件として次の環境を用意する、1.ffmpeg、2.python
 
-次に、以下の環境変数を設定
-PATHに以下を追記
+次に、環境変数を設定、PATHに以下を追記
+
 C:\Python
 C:\ffmpeg\bin
 C:\work\python
