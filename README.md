@@ -1,4 +1,38 @@
 # convert-mpeg-mp4
+# English
+<br>
+(made with ChatGPT)<br>
+<br>
+Prepare the following environment as prerequisites:<br>
+<br>
+ffmpeg
+python
+Next, set the environment variables and add the following to PATH:<br>
+C:\Python<br>
+C:\ffmpeg\bin<br>
+C:\work\python<br>
+<br>
+The last line (C:\work\python) should be changed depending on where the conversion script is located, as explained below.<br>
+<br>
+Script location: C:\work\python\convert_mpeg_mp4.py<br>
+Usage:<br>
+<br>
+Within the folder where the script is located, there is a config.txt file where you can specify the necessary parameters for the conversion.<br>
+Double-click convert_mpeg_mp4.py to open the explorer.<br>
+Select the MPEG file you want to convert to MP4 (specify the video and audio specifications in config.txt).<br>
+(To select multiple files, use the Ctrl or Shift buttons to select multiple files.)<br>
+After selecting, the explorer will open again, so specify the destination folder where the file will be saved.<br>
+A command prompt window will be displayed showing the conversion progress.<br>
+If there is an MP4 file with the same name in the destination folder, you will be prompted to overwrite it, and you can answer with y/N.<br>
+<br>
+When the conversion is complete, the command prompt will disappear and the conversion will be complete.<br>
+<br>
+Note:<br>
+If you cannot run it by double-clicking, try running it from the command line in PowerShell.<br>
+The error message will be displayed, so ask ChatGPT for help.<br>
+<br>
+<br>
+# Japanese<br>
 mpegをmp4に変換する<br>
 <br>
 (made with chatgpt)<br>
