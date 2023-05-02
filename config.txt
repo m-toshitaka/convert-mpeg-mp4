@@ -1,0 +1,7 @@
+# config.txtの中身（サンプル）
+video_encoder=h264
+video_bitrate=192k
+video_resolution=568x426
+video_framerate=29.97
+audio_bitrate=128k
+audio_samplerate=44100
